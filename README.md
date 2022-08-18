@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NomaanNaseh
+- 👋 Hi, I’m @MLG
 - 👀 I’m interested in coding with HTML and CSS
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Javascript
